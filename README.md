@@ -22,6 +22,9 @@ template-like system utterances.
 The E2E set was used in the [E2E NLG Challenge](http://www.macs.hw.ac.uk/InteractionLab/E2E/),
 which provides an extensive list of results achieved on this data.
 
+Please refer to [our SIGDIAL2017 paper](https://arxiv.org/abs/1706.09254) for 
+a detailed description of the dataset.
+
 Contents
 --------
 
@@ -59,3 +62,8 @@ If you use this dataset in your work, please cite the following paper:
 }
 ```
 
+License
+-------
+
+Distributed under the [Creative Commons 4.0 Attribution-ShareAlike lincense
+(CC4.0-BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/).

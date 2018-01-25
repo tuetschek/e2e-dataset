@@ -67,3 +67,9 @@ License
 
 Distributed under the [Creative Commons 4.0 Attribution-ShareAlike lincense
 (CC4.0-BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/).
+
+
+Acknowledgements
+----------------
+
+This research received funding from the EPSRC projects DILiGENt (EP/M005429/1) and MaDrIgAL (EP/N017536/1).

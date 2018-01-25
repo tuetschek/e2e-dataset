@@ -4,6 +4,11 @@ The E2E Challenge Dataset
 
 _Authors: Jekaterina Novikova, Ondrej Dusek and Verena Rieser_
 
+Download Link
+-------------
+
+**[Download the full release of the E2E dataset here](https://github.com/tuetschek/e2e-dataset/archive/v1.0.0.zip)**
+
 Description
 -----------
 

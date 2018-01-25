@@ -7,7 +7,7 @@ _Authors: Jekaterina Novikova, Ondrej Dusek and Verena Rieser_
 Download Link
 -------------
 
-**[Download the full release of the E2E dataset here](https://github.com/tuetschek/e2e-dataset/archive/v1.0.0.zip)**
+**[Download the full release of the E2E dataset here (ZIP)](https://github.com/tuetschek/e2e-dataset/releases/download/v1.0.0/e2e-dataset.zip)**
 
 Description
 -----------
